@@ -1,5 +1,13 @@
 /* feature bikes custom css */
 
+html{
+    overflow-x: hidden;
+}
+body{
+    overflow-x: hidden;
+    margin: auto;
+}
+
 .gryscl{
     filter: grayscale(100%);
 }
@@ -12,12 +20,11 @@
 .btn-custom{
     background-color: #E76F51;
 }
+.subscribe-bg-custom{
+    background-color: rgb(243, 228, 210);
+    border-radius: 5px;
+}
 .img-custom{
     height:120px;
     width:150px;
 }
-/* .img-custom img{
-    width: 100%;
-    height: 100%;
-
-} */
