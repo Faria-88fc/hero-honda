@@ -1,0 +1,8 @@
+/* feature bikes custom css */
+
+.gryscl{
+    filter: grayscale(100%);
+}
+.gryscl:hover{
+    filter: grayscale(0%);
+}
