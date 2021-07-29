@@ -6,3 +6,9 @@
 .gryscl:hover{
     filter: grayscale(0%);
 }
+@media  screen and (max-width:768) {
+    .custom-m{
+        justify-content: center important;
+    }
+    
+}
